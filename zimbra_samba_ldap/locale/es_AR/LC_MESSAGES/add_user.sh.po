@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Username: "
+msgstr "Nombre de usuario: "
+
+msgid "ERROR: Invalid username"
+msgstr "ERROR: Nombre de usuario invalido"
+
+msgid "First name: "
+msgstr "Nombre (sin apellido): "
+
+msgid "Domain"
+msgstr "Dominio"
+
+msgid "Available distribution lists: (please wait...)"
+msgstr "Listas de distribucion disponibles: (espere un momento, por favor...)"
+
+msgid "ERROR: invalid first name"
+msgstr "ERROR: Nombre invalido"
+
+msgid "Last name: "
+msgstr "Apellido: "
+
+msgid "ERROR: invalid last name"
+msgstr "ERROR: Apellido invalido"
+
+msgid "Password: "
+msgstr "Contrasena: "
+
+msgid "ERROR: invalid password"
+msgstr "ERROR: Contrasena invalida"
+
+msgid "Available samba domains: (please wait...)"
+msgstr "Dominios samba disponibles: (por favor, espere un momento)"
+
+msgid "Value (between 1 and %s): "
+msgstr "Valor (entre 1 y %s): "
+
+msgid "Available domains: (please wait...)"
+msgstr "Dominios disponibles: (por favor, espere un momento)"
+
+msgid "Chosen SambaSID: "
+msgstr "SambaSID elegido: "
+
+msgid "Choose an option. Press Ctrl-d when done > "
+msgstr "Seleccione una opcion. Presione Ctrl-d para terminar > "
+
+msgid "Invalid selection"
+msgstr "Selección inválida"
+
+msgid "Current selection: "
+msgstr "Seleccion actual: "
+
+msgid "The following lists have been selected: "
+msgstr "Se seleccionaron las siguientes listas: "
+
+msgid "Available Classes of service: (please wait...)"
+msgstr "Clases de servicio disponibles: (espere un momento, por favor...)"
+
+msgid "Class of service"
+msgstr "Clase de servicio"
+
+msgid "ERROR: Non-existent class of service"
+msgstr "ERROR: Clase de servicio inexistente"
+
+msgid "Available groups: (please wait...)"
+msgstr "Grupos disponibles: (espere un momento, por favor...)"
+
+msgid "Choose the group identifier: "
+msgstr "Elija el identificador de grupo: "
+
+msgid "ERROR: invalid group identifier"
+msgstr "ERROR: Identificador de Grupo incorrecto"
+
+msgid "ERROR: Could not find a new user id"
+msgstr "ERROR: No se pudo obtener un Identificador de Usuario."
+
+msgid "Adding user..."
+msgstr "Agregando usuario..."
+
+msgid "Adding user to a distribution list..."
+msgstr "Agregando usuario a una lista de distribucion..."
+
+msgid "Done!"
+msgstr "¡Listo!"
+
+msgid "ERROR"
+msgstr "ERROR"
+

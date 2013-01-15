@@ -1,0 +1,15 @@
+zimbra-samba-ldap
+=================
+
+Simple user provisioning script for those of us who configured Zimbra to act
+as a primary domain controller (http://wiki.zimbra.com/wiki/UNIX_and_Windows_Accounts_in_Zimbra_LDAP_and_Zimbra_Admin_UI)
+and later upgraded ZCS to find everything broken.
+
+If you upgraded ZCS to a version >= 7.2, make sure you disable the
+"zimbra_samba" and "zimbra_posixaccount" zimlets so that your administrative
+interface stops misbehaving. Then you can use the 'add_user.sh' script to
+provision new accounts.
+
+This script is based on the work done by user "rosch" from Zimbra Forums
+(http://bit.ly/UoNI15).
+
